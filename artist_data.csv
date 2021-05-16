@@ -1,0 +1,881 @@
+handle,total_n,artist,popularity,genre1,genre2,political_n,political_proportion,poliprop_bin
+_christiannodal,126,Christian Nodal,2527,latin,,0,0,Unengaged
+_elmayimbe_,27,Anthony Santos,33,latin,,0,0,Unengaged
+respektor,3160,Regina Spektor,13,rock,,587,0.19,Actively Engaged
+jackjohnson,925,Jack Johnson,20,rock,,65,0.07,Circumstantially Engaged
+1future,3159,Future,7394,hiphop and r&b,,17,0,Unengaged
+1gunnagunna,3020,Gunna,344,hiphop and r&b,,32,0,Unengaged
+1omarion,1,Omarion,1635,hiphop and r&b,,0,0,Unengaged
+2__milly,3148,2 Milly,1,hiphop and r&b,,38,0,Unengaged
+adele,309,Adele,1625,pop,,1,0,Unengaged
+21savage,2894,21 Savage,3752,hiphop and r&b,,29,0,Unengaged
+2chainz,3226,2 Chainz,1631,hiphop and r&b,,20,0,Unengaged
+6ix9ine,107,6ix9ine,2254,hiphop and r&b,,0,0,Unengaged
+4planb,3138,Plan B,2146,latin,,139,0.01,Unengaged
+6lack,3154,6LACK,161,hiphop and r&b,,40,0,Unengaged
+artisthbtl,797,A Boogie Wit da Hoodie,1097,hiphop and r&b,,2,0,Unengaged
+asapferg,3090,A$AP Ferg,926,hiphop and r&b,,36,0,Unengaged
+jessiejdecker,3218,Jessie James Decker,13,country,,0,0,Unengaged
+iamhannahkirby,3127,Hannah Kirby,5,rock,,200,0.07,Circumstantially Engaged
+jm_finley,2,J. Michael Finley,13,christian,,0,0,Unengaged
+abrahammateoesp,3189,Abraham Mateo,473,latin,,38,0,Unengaged
+laithalsaadi,1267,Laith Al-Saadi,259,rock,,76,0.06,Circumstantially Engaged
+masonramsey,640,Mason Ramsey,178,country,,1,0,Unengaged
+billycurrington,286,Billy Currington,2205,country,,2,0,Unengaged
+alessiacara,3232,Alessia Cara,4071,pop,,3,0,Unengaged
+danauerbach,648,Dan Auerbach,163,rock,,37,0.06,Circumstantially Engaged
+upchurchrhec,3246,Ryan Upchurch,7,country,,2,0,Unengaged
+officialwzevon,67,Warren Zevon,39,rock,,4,0.06,Circumstantially Engaged
+andygrammer,3220,Andy Grammer,563,pop,,38,0,Unengaged
+adriel_favela,803,Adriel Favela,977,latin,,17,0,Unengaged
+annemarie,3237,Anne-Marie,1077,pop,,23,0,Unengaged
+alejandrosanz,3213,Alejandro Sanz,861,latin,,24,0,Unengaged
+arianagrande,3235,Ariana Grande,3761,pop,,0,0,Unengaged
+arlissaxx,3191,Arlissa,45,pop,,9,0,Unengaged
+billyboydactor,2242,Billy Boyd,61,rock,,109,0.05,Circumstantially Engaged
+alexoficial,3227,Alejandro Fernandez,13,latin,,1,0,Unengaged
+alexsensation,3248,Alex Sensation,1068,latin,,1,0,Unengaged
+alfredoolivas_,786,Alfredo Olivas,1083,latin,,1,0,Unengaged
+twofeetmusic,191,Two Feet,857,rock,,10,0.05,Circumstantially Engaged
+asvpxrocky,144,A$AP Rocky,415,hiphop and r&b,,0,0,Unengaged
+st_vincent,3107,St. Vincent,37,rock,,104,0.02,Circumstantially Engaged
+jonathanhelser,1317,Melissa Helser,9,christian,,0,0,Unengaged
+amarante76,280,Rodrigo Amarante,43,latin,,1,0,Unengaged
+markschultzy,85,Mark Schultz,67,christian,,0,0,Unengaged
+alexdakid,3133,Alex Da Kid,444,rock,,103,0.05,Circumstantially Engaged
+daltonrapattoni,3188,Dalton Rapattoni,5,rock,,100,0.02,Circumstantially Engaged
+audien,3211,Audien,203,hiphop and r&b,,41,0,Unengaged
+billygilman,3196,Billy Gilman,32,rock,,97,0.02,Circumstantially Engaged
+stevenfurtick,3240,Steven Furtick,47,christian,,0,0,Unengaged
+maggierogers,3218,Maggie Rogers,169,rock,,97,0.02,Circumstantially Engaged
+bazzi,3212,Bazzi,1029,pop,,6,0,Unengaged
+aaronshust,55,Aaron Shust,947,christian,,1,0,Unengaged
+anitta,3224,Anitta,1170,latin,,65,0.01,Unengaged
+beyonce,11,Beyonce,2957,pop,,0,0,Unengaged
+anuel_2blea,3092,Anuel AA,2388,latin,,15,0,Unengaged
+arcangelprrra,3221,Arcangel,2227,latin,,0,0,Unengaged
+bloodpop,1888,BloodPop,242,pop,,22,0,Unengaged
+arielylosplebes,1557,Ariel Camacho,3950,latin,,0,0,Unengaged
+brunomars,3189,Bruno Mars,5690,pop,,22,0,Unengaged
+aronwright,847,Aron Wright,25,christian,,1,0,Unengaged
+banditgvngmvrco,3012,Bandit Gang Marco,300,hiphop and r&b,,21,0,Unengaged
+barnscourtney,3217,Barns Courtney,30,hiphop and r&b,,28,0,Unengaged
+joshturnermusic,1307,Josh Turner,1206,country,,3,0,Unengaged
+bretteldredge,3234,Brett Eldredge,4819,country,,6,0,Unengaged
+asolermusic,1349,Alvaro Soler,470,latin,,3,0,Unengaged
+bas,3188,Bas,3,hiphop and r&b,,34,0,Unengaged
+bhadbhabie,3108,Bhad Bhabie,108,hiphop and r&b,,38,0,Unengaged
+bigbabydram,3157,D.R.A.M.,1394,hiphop and r&b,,23,0,Unengaged
+grandson,3192,grandson,451,rock,,92,0.02,Circumstantially Engaged
+chrisaugust,3204,Chris August,503,christian,,1,0,Unengaged
+canaansmith,3228,Canaan Smith,1216,country,,6,0,Unengaged
+ellieholcomb,3223,Ellie Holcomb,296,christian,,2,0,Unengaged
+axeloficial,3195,Axel,4,latin,,17,0,Unengaged
+axwell,31,Axwell,223,latin,,0,0,Unengaged
+sawyerfrdrx,3239,Sawyer Fredericks,461,rock,,88,0.02,Circumstantially Engaged
+carltonanderson,751,Carlton Anderson,3,country,,6,0,Unengaged
+itsbrittnicole,3239,Britt Nicole,1265,christian,,2,0,Unengaged
+balvinbr,3160,J Balvin,19644,latin,pop,13,0,Unengaged
+blacyoungstafb,3146,Blac Youngsta,68,hiphop and r&b,,25,0,Unengaged
+chris_daughtry,3192,Chris Daughtry,13,rock,,86,0.02,Circumstantially Engaged
+miazanotti,3115,Mia Z,26,rock,,81,0.02,Circumstantially Engaged
+blocboy_jb,3028,BlocBoy JB,887,hiphop and r&b,,24,0,Unengaged
+garthbrooks,3213,Garth Brooks,1279,country,,6,0,Unengaged
+bobatl,3215,B.o.B,265,hiphop and r&b,,31,0,Unengaged
+bryantmyers_,2754,Bryant Myers,49,pop,,18,0,Unengaged
+brycevine,3189,Bryce Vine,466,pop,,24,0,Unengaged
+bigboi,3209,Big Boi,296,rock,hiphop and r&b,78,0.02,Circumstantially Engaged
+toriharpermusic,192,Tori Harper,175,christian,,2,0.01,Circumstantially Engaged
+andrewmcmahon,3212,Andrew McMahon In The Wilderness,1508,rock,,73,0.02,Circumstantially Engaged
+calumscott,3222,Calum Scott,138,pop,,5,0,Unengaged
+bobbyshmurdags9,1915,Bobby Shmurda,357,hiphop and r&b,,76,0,Unengaged
+brysontiller,500,Bryson Tiller,2697,hiphop and r&b,,5,0,Unengaged
+rhiannongiddens,2131,Rhiannon Giddens,20,rock,,66,0.02,Circumstantially Engaged
+calvinharris,1018,Calvin Harris,5540,pop,,8,0,Unengaged
+yusufcatstevens,1907,Cat Stevens,27,rock,,65,0.02,Circumstantially Engaged
+jhalversonmusic,655,Josh Halverson,10,country,,7,0,Unengaged
+grimezsz,1921,Grimes,156,rock,,51,0.02,Circumstantially Engaged
+officialsting,1879,Sting,20,rock,,47,0.02,Circumstantially Engaged
+camerondallas,238,Cameron Dallas,5,hiphop and r&b,,3,0,Unengaged
+ericchurch,824,Eric Church,5472,country,,9,0,Unengaged
+zwilliamslive,1207,Zach Williams,6764,rock,,38,0.02,Circumstantially Engaged
+colonelloud,3182,Colonel Loud,150,hiphop and r&b,,23,0,Unengaged
+carlyraejepsen,3162,Carly Rae Jepsen,266,pop,,41,0,Unengaged
+common,3204,Common,105,hiphop and r&b,,43,0,Unengaged
+daedae,629,Dae Dae,418,hiphop and r&b,,1,0,Unengaged
+hleithauser,1432,Hamilton Leithauser,10,rock,,37,0.02,Circumstantially Engaged
+chloekohanski,1682,Chloe Kohanski,78,rock,,36,0.02,Circumstantially Engaged
+jordancwdavis,1436,Jordan Davis,1187,country,,9,0,Unengaged
+manafest,3223,Manafest,7,christian,,3,0,Unengaged
+jonnydiaz,3209,Jonny Diaz,1732,christian,,4,0,Unengaged
+ironandwine,1426,Iron & Wine,20,rock,,27,0.02,Circumstantially Engaged
+brendanjfletch,808,Brendan Fletcher,29,rock,,17,0.02,Circumstantially Engaged
+taylormadu,318,Taylor Madu,6,christian,,4,0.01,Circumstantially Engaged
+dustinlynch,3204,Dustin Lynch,4333,country,,11,0,Unengaged
+jordan_rager,3217,Jordan Rager,27,country,,11,0,Unengaged
+kimnicky,3206,Kimberly Nichole,68,rock,,296,0.01,Circumstantially Engaged
+morgan_evans,3233,Morgan Evans,763,country,,11,0,Unengaged
+charleskelleyla,1082,Charles Kelley,78,country,,12,0,Unengaged
+dollyparton,1916,Dolly Parton,14,country,,12,0,Unengaged
+charli_xcx,3193,Charli XCX,117,pop,,13,0,Unengaged
+hozier,12898,Hozier,3730,rock,,224,0.01,Circumstantially Engaged
+amygrant,3227,Amy Grant,103,christian,,5,0,Unengaged
+charlieputh,670,Charlie Puth,3618,pop,,6,0,Unengaged
+chrisbrown,3183,Chris Brown,4582,pop,,46,0,Unengaged
+cleanbandit,3214,Clean Bandit,1196,pop,,47,0,Unengaged
+damienprincejr,3071,Damien,29,hiphop and r&b,,15,0,Unengaged
+brytiago,3142,Brytiago,931,latin,,15,0,Unengaged
+conradofficial,3228,Conrad Sewell,229,pop,,44,0,Unengaged
+dillonfrancis,2129,Dillon Francis,67,pop,,17,0,Unengaged
+georgestrait,530,George Strait,177,country,,12,0,Unengaged
+danielcaesar,2530,Daniel Caesar,213,hiphop and r&b,,28,0,Unengaged
+diplo,3215,Diplo,795,pop,,115,0,Unengaged
+hunterhayes,2837,Hunter Hayes,537,country,,13,0,Unengaged
+carmensarahimx,3201,Carmen Sarahi,270,latin,,14,0,Unengaged
+tuckerbeathard,1612,Tucker Beathard,725,country,,14,0,Unengaged
+cassadeepope,3199,Cassadee Pope,2,country,,15,0,Unengaged
+direalshaggy,3183,Shaggy,419,pop,,115,0,Unengaged
+casper_magico,1041,Casper Magico,582,latin,,5,0,Unengaged
+chrisstapleton,3238,Chris Stapleton,4985,country,,15,0,Unengaged
+cazzuuuu,2988,Cazzu,10,latin,,3,0,Unengaged
+officialjackson,1788,Alan Jackson,18,country,,16,0,Unengaged
+sarahreeves,2979,Sarah Reeves,84,christian,,6,0,Unengaged
+cfidelrueda,3141,Fidel Rueda,204,latin,,2,0,Unengaged
+christomlin,3205,Chris Tomlin,7183,christian,,7,0,Unengaged
+karijobe,3236,Kari Jobe,1499,christian,,7,0,Unengaged
+chayannemusic,3203,Chayanne,591,latin,,38,0,Unengaged
+dejloaf,3133,DeJ Loaf,1149,hiphop and r&b,,36,0,Unengaged
+russelled,3176,Russell Dickerson,1690,country,,16,0,Unengaged
+dukedumont,3187,Duke Dumont,29,pop,,10,0,Unengaged
+edsheeran,1864,Ed Sheeran,2937,pop,,7,0,Unengaged
+jason_aldean,3223,Jason Aldean,8038,country,,17,0,Unengaged
+codyjohnson,3216,Cody Johnson,119,country,,18,0,Unengaged
+chiquis626,3244,Chiquis Rivera,8,latin,,6,0,Unengaged
+derezdeshon,757,Derez De'Shon,146,hiphop and r&b,,6,0,Unengaged
+chrisjeday,2999,Chris Jeday,1591,latin,,25,0,Unengaged
+paulmccartney,3190,Paul McCartney,1188,rock,pop,78,0.01,Circumstantially Engaged
+indiacarney,3215,India Carney,6,rock,,75,0.01,Circumstantially Engaged
+matthew_west,3201,Matthew West,5335,christian,,8,0,Unengaged
+djcarnage,3059,Carnage,5,hiphop and r&b,,38,0,Unengaged
+ellahenderson,3133,Ella Henderson,351,pop,,42,0,Unengaged
+shinedown,3211,Shinedown,2936,rock,,70,0.01,Circumstantially Engaged
+christiandmusic,3164,Christian Daniel,1163,latin,,26,0,Unengaged
+austinlwebb,3214,Austin Webb,22,country,,19,0,Unengaged
+chrisyoungmusic,3229,Chris Young,4531,latin,,7,0,Unengaged
+coryasbury,3232,Cory Asbury,1527,christian,,9,0,Unengaged
+iamjoshuamicah,3159,Joshua Micah,79,christian,,9,0,Unengaged
+chuchoflash,653,Chucho Flash,61,latin,,0,0,Unengaged
+clubmenolugo,25,Meno Lugo,43,latin,,0,0,Unengaged
+owendanoff,3177,Owen Danoff,18,rock,,66,0.01,Circumstantially Engaged
+djkhaled,3200,DJ Khaled,7154,hiphop and r&b,,42,0,Unengaged
+craigcampbelltv,3171,Craig Campbell,258,country,,19,0,Unengaged
+sethennis,3198,Seth Ennis,26,country,,19,0,Unengaged
+ellamai,3165,Ella Mai,1638,pop,,43,0,Unengaged
+coscuelprincipe,3215,Cosculluela,2143,latin,,1,0,Unengaged
+moriahsmallbone,234,Moriah Peters,358,christian,,9,0.01,Circumstantially Engaged
+christynockels,3214,Christy Nockels,11,christian,,11,0,Unengaged
+joshgallmusic,1730,Josh Gallagher,65,country,,21,0,Unengaged
+iamlp,3214,LP,51,rock,,63,0.01,Circumstantially Engaged
+kennychesney,1446,Kenny Chesney,6378,country,,21,0,Unengaged
+dmx,252,DMX,54,hiphop and r&b,,3,0,Unengaged
+davidarchie,3209,David Archuleta,79,christian,,11,0,Unengaged
+eazye_,953,Eazy-E,80,hiphop and r&b,,3,0,Unengaged
+emilywarrennnn,3218,Emily Warren,406,pop,,32,0,Unengaged
+jontlangston,3150,Jon Langston,29,country,,22,0,Unengaged
+crecergermanof,16,Crecer German,570,latin,,0,0,Unengaged
+jjweeks,271,JJ Weeks Band,116,christian,,11,0.02,Circumstantially Engaged
+dannocean,3152,Danny Ocean,657,latin,,27,0,Unengaged
+travis_denning,3220,Travis Denning,111,country,,22,0,Unengaged
+darell_rg4l,3031,Darell,1218,latin,,11,0,Unengaged
+adamcraigmusic,3187,Adam Craig,41,country,,23,0,Unengaged
+delaghettoreal,3113,De La Ghetto,435,latin,,37,0,Unengaged
+eminem,869,Eminem,60,hiphop and r&b,,13,0,Unengaged
+ellieklawrence,3178,Ellie Lawrence,10,rock,,61,0.01,Circumstantially Engaged
+escomoecity,3109,DJ ESCO,517,hiphop and r&b,,19,0,Unengaged
+rufuswainwright,2831,Rufus Wainwright,35,rock,,61,0.01,Circumstantially Engaged
+mallaryhope,3219,Mallary Hope,136,christian,,11,0,Unengaged
+famousdex,2867,Famous Dex,689,hiphop and r&b,,31,0,Unengaged
+deorro,3181,Deorro,687,latin,,23,0,Unengaged
+paulbaloche,205,Paul Baloche,6,christian,,13,0.06,Circumstantially Engaged
+dianareyesmusic,3212,Diana Reyes,42,latin,,8,0,Unengaged
+castingcrowns,3068,Casting Crowns,6233,christian,,14,0,Unengaged
+alisanporter,3160,Alisan Porter,31,rock,,60,0.01,Circumstantially Engaged
+fancyhagood,3210,Who Is Fancy,142,pop,,33,0,Unengaged
+chasebryant,3183,Chase Bryant,1065,country,,23,0,Unengaged
+itsjimicravity,3218,Jimi Cravity,75,christian,,14,0,Unengaged
+mrswoope,3232,Swoope,13,christian,,14,0,Unengaged
+flumemusic,2088,Flume,892,pop,,14,0,Unengaged
+jamesblake,1582,James Blake,489,country,,23,0,Unengaged
+mikeshinoda,3188,Mike Shinoda,68,rock,,59,0.01,Circumstantially Engaged
+kalebleemusic,442,Kaleb Lee,36,christian,country,15,0,Unengaged
+chriscornell,3219,Chris Cornell,410,rock,,52,0.01,Circumstantially Engaged
+frank_oceann_,533,Frank Ocean,123,hiphop and r&b,,0,0,Unengaged
+dinahjane97,3165,Dinah Jane,29,latin,,20,0,Unengaged
+matsor,3230,Rostam,10,rock,,52,0.01,Circumstantially Engaged
+gnash,3221,gnash,590,pop,,32,0,Unengaged
+djluian,5,DJ Luian,2284,latin,,0,0,Unengaged
+ggyoungboy,752,YoungBoy Never Broke Again,968,hiphop and r&b,,4,0,Unengaged
+mackenziebourg,2516,MacKenzie Bourg,70,rock,,49,0.01,Circumstantially Engaged
+donomar,3223,Don Omar,2464,latin,,21,0,Unengaged
+goswaelee,3118,Swae Lee,269,hiphop and r&b,,120,0,Unengaged
+camcountry,3200,Cam,1425,country,,24,0,Unengaged
+haileesteinfeld,3201,Hailee Steinfeld,2007,pop,,43,0,Unengaged
+dukissj,3165,Duki,10,latin,,9,0,Unengaged
+harry_styles,3213,Harry Styles,560,pop,,24,0,Unengaged
+hayleykiyoko,3158,Hayley Kiyoko,82,pop,,290,0,Unengaged
+gucci1017,3151,Gucci Mane,2235,hiphop and r&b,,42,0,Unengaged
+hopsin,3191,Hopsin,8,hiphop and r&b,,26,0,Unengaged
+dzekomusic,3219,Dzeko,436,latin,,47,0,Unengaged
+iamdlow,3241,DLOW,514,hiphop and r&b,,32,0,Unengaged
+edwinlunat,3220,Edwin Luna,255,latin,,6,0,Unengaged
+iamkevingates,3192,Kevin Gates,2072,hiphop and r&b,,9,0,Unengaged
+hoodieallen,3216,Hoodie Allen,213,pop,,0,0,Unengaged
+itsob,2944,OB OBrien,2,hiphop and r&b,,23,0,Unengaged
+davidnail,3244,David Nail,871,country,,24,0,Unengaged
+el_komander1,3195,El Komander,1356,latin,,16,0,Unengaged
+iambeckyg,3174,Becky G,3141,pop,,280,0,Unengaged
+brantleygilbert,1761,Brantley Gilbert,2653,country,,27,0,Unengaged
+jacquees,3146,Jacquees,239,hiphop and r&b,,35,0,Unengaged
+janetjackson,1511,Janet Jackson,186,hiphop and r&b,,18,0,Unengaged
+iamblackbear,2153,blackbear,951,pop,hiphop and r&b,3,0,Unengaged
+iggyazalea,3155,Iggy Azalea,1319,pop,,18,0,Unengaged
+elchombo,27,El Chombo,768,latin,,0,0,Unengaged
+iamchrislane,3195,Chris Lane,2965,country,,27,0,Unengaged
+jimmieallen,3240,Jimmie Allen,490,country,,27,0,Unengaged
+eldominionigga,3060,El Dominio,19,latin,,19,0,Unengaged
+jayrock,3157,Jay Rock,489,hiphop and r&b,,139,0,Unengaged
+grangersmith,3199,Granger Smith,2095,country,,28,0,Unengaged
+jcolenc,2738,J. Cole,3410,hiphop and r&b,,3,0,Unengaged
+itsruthb,3029,Ruth B,538,pop,,45,0,Unengaged
+jalvarezflow,3140,J Alvarez,464,pop,,31,0,Unengaged
+elfantasmamusic,2,El Fantasma,1079,latin,,0,0,Unengaged
+eltorito48,3201,Hector Acosta,79,latin,,128,0.01,Unengaged
+enigmanorteno,3203,Enigma Norteno,265,latin,,11,0,Unengaged
+enriqueiglesias,3241,Enrique Iglesias,5459,latin,pop,26,0,Unengaged
+esbadbunny,3101,Bad Bunny,8851,latin,pop,2,0,Unengaged
+farrukoofficial,3234,Farruko,5914,latin,,13,0,Unengaged
+janellemonae,3166,Janelle Monae,332,pop,hiphop and r&b,570,0,Unengaged
+jessiej,3229,Jessie J,198,pop,,30,0,Unengaged
+declanmckenna,2042,Declan McKenna,35,rock,,48,0.01,Circumstantially Engaged
+jonasblue,3152,Jonas Blue,293,pop,,44,0,Unengaged
+jonbellion,3102,Jon Bellion,691,pop,,28,0,Unengaged
+brandonheath,3206,Brandon Heath,1212,christian,,17,0,Unengaged
+vancejoy,2709,Vance Joy,3652,rock,,44,0.01,Circumstantially Engaged
+skilletmusic,2573,Skillet,5232,rock,,40,0.01,Circumstantially Engaged
+feid,3210,Feid,4,latin,,26,0,Unengaged
+fiotimc,1,MC Fioti,354,latin,,0,0,Unengaged
+jjheller,3221,JJ Heller,28,christian,,17,0,Unengaged
+laurenduski,3207,Lauren Duski,173,country,,29,0,Unengaged
+juiceworlddd,3105,Juice WRLD,1969,pop,,39,0,Unengaged
+jheneaiko,168,Jhene Aiko,126,hiphop and r&b,,2,0,Unengaged
+fitoblanko,2830,Fito Blanko,19,latin,,44,0.01,Unengaged
+fonseca,3229,Fonseca,3,latin,,22,0,Unengaged
+loganmize,3178,Logan Mize,12,country,,29,0,Unengaged
+justincolemoore,3189,Justin Moore,2049,country,,30,0,Unengaged
+frankreyesof,727,Frank Reyes,357,latin,,2,0,Unengaged
+joeybadass,52,Joey Bada$$,5,hiphop and r&b,,2,0,Unengaged
+m10penny,3156,Mitchell Tenpenny,434,country,,31,0,Unengaged
+joynerlucas,103,Joyner Lucas,5,hiphop and r&b,,1,0,Unengaged
+katyperry,3186,Katy Perry,740,pop,,46,0,Unengaged
+fuerzadetj,1845,Fuerza de Tijuana,3,latin,,1,0,Unengaged
+kcamp,3094,K Camp,713,hiphop and r&b,,21,0,Unengaged
+gerardoortiznet,3196,Gerardo Ortiz,4432,latin,,4,0,Unengaged
+kelly_clarkson,3227,Kelly Clarkson,653,pop,,46,0,Unengaged
+kentjoneswtb,3087,Kent Jones,1447,pop,,46,0,Unengaged
+gochomusic,3063,"Gocho ""El Lapiz de Platino""",354,latin,,46,0,Unengaged
+iamchino__,3194,IAmChino,809,latin,,68,0,Unengaged
+kevinhart4real,3160,Kevin Hart,1,hiphop and r&b,,47,0,Unengaged
+kesharose,3186,Kesha,591,pop,,16,0,Unengaged
+ingrosso,11,Ingrosso,223,latin,,0,0,Unengaged
+kirkfranklin,3201,Kirk Franklin,21,hiphop and r&b,,7,0,Unengaged
+mopitney,3172,Mo Pitney,48,country,,32,0,Unengaged
+itsbennyblanco,3203,Benny Blanco,304,latin,,54,0,Unengaged
+kmichelle,3174,K. Michelle,66,hiphop and r&b,,32,0,Unengaged
+j_medina37,3219,Jorge Medina,8,latin,,14,0,Unengaged
+jacobforever1,17,Jacob Forever,981,latin,,0,0,Unengaged
+lindsayell,3202,Lindsay Ell,422,country,,35,0,Unengaged
+ashleymcbryde,3220,Ashley McBryde,203,country,,37,0,Unengaged
+brittonbuchanan,2290,Britton Buchanan,73,rock,,38,0.01,Circumstantially Engaged
+marcmartel,1584,Marc Martel,60,christian,,17,0.01,Circumstantially Engaged
+deanlewismusic,1432,Dean Lewis,43,rock,,32,0.01,Circumstantially Engaged
+morgancwallen,3187,Morgan Wallen,1450,country,,37,0,Unengaged
+javierrosasap,2470,Javier Rosas,106,latin,,14,0,Unengaged
+theandreasmoss,1481,Jonathan Thulin,208,christian,,18,0.01,Circumstantially Engaged
+lifeofthepardi,3103,Pardison Fontaine,8,hiphop and r&b,,113,0,Unengaged
+kiiara,3213,Kiiara,697,pop,,19,0,Unengaged
+jencarlosmusic,12750,Jencarlos,443,latin,rock,32,0,Unengaged
+lilbaby4pf,400,Lil Baby,1477,hiphop and r&b,,2,0,Unengaged
+lildurk,3206,Lil Durk,82,hiphop and r&b,,10,0,Unengaged
+_laurawelsh,1449,Laura Welsh,19,rock,,30,0.01,Circumstantially Engaged
+levihummon,3228,Levi Hummon,4,country,,38,0,Unengaged
+marilynmanson,1091,Marilyn Manson,239,rock,,27,0.01,Circumstantially Engaged
+lilduval,3169,Lil' Duval,165,hiphop and r&b,,33,0,Unengaged
+lauvsongs,3234,Lauv,951,pop,,7,0,Unengaged
+lifeofdesiigner,3137,Desiigner,2567,pop,hiphop and r&b,33,0,Unengaged
+landrycantrell,2896,Landry Cantrell,9,christian,,19,0,Unengaged
+milkychance,1345,Milky Chance,1264,rock,,26,0.01,Circumstantially Engaged
+livviamusic,3185,Livvia,52,pop,,15,0,Unengaged
+cmcclarney,2985,Chris McClarney,8,christian,,21,0,Unengaged
+lukasgraham,3194,Lukas Graham,1132,pop,,209,0,Unengaged
+lunchmoneylewis,3202,LunchMoney Lewis,244,pop,,13,0,Unengaged
+miikesnow,1121,Miike Snow,614,rock,,19,0.01,Circumstantially Engaged
+madisonbeer,3186,Madison Beer,448,pop,,29,0,Unengaged
+lilskies,2209,Lil Skies,545,hiphop and r&b,,23,0,Unengaged
+sampalladio,3239,Sam Palladio,14,country,,40,0,Unengaged
+addisonagen,564,Addison Agen,5,rock,pop,13,0.01,Circumstantially Engaged
+liltunechi,1981,Lil Wayne,4297,hiphop and r&b,,5,0,Unengaged
+chasericemusic,3177,Chase Rice,1322,country,,41,0,Unengaged
+jeffbuckley,431,Jeff Buckley,69,rock,,7,0.01,Circumstantially Engaged
+matkearney,3215,Mat Kearney,1358,christian,,21,0,Unengaged
+madonna,3203,Madonna,6,pop,,1,0,Unengaged
+marcebassy,3179,Marc E. Bassy,256,pop,,30,0,Unengaged
+martingarrix,3208,Martin Garrix,993,pop,,25,0,Unengaged
+jencarlosmusic,12750,Jencarlos Canela,156,latin,,32,0,Unengaged
+marenmorris,3231,Maren Morris,4371,country,,41,0,Unengaged
+liluzivert,2583,Lil Uzi Vert,3731,hiphop and r&b,,12,0,Unengaged
+brandonflowers,109,Brandon Flowers,36,rock,,2,0.01,Circumstantially Engaged
+michaelwsmith,3247,Michael W. Smith,729,christian,,21,0,Unengaged
+morganhnichols,3189,Morgan Harper Nichols,104,christian,,21,0,Unengaged
+lilyachty,3205,Lil Yachty,734,hiphop and r&b,,23,0,Unengaged
+meghanlinsey,3203,Meghan Linsey,181,rock,,212,0,Circumstantially Engaged
+mirandalambert,3243,Miranda Lambert,2760,country,,41,0,Unengaged
+meghan_trainor,3167,Meghan Trainor,2626,pop,,126,0,Unengaged
+lloyd_yg,1600,Lloyd,2,hiphop and r&b,,2,0,Unengaged
+theryanadams,3226,Ryan Adams,195,rock,,135,0,Unengaged
+jesusojedaysus,3231,Jesus Ojeda,144,latin,,0,0,Unengaged
+eltonofficial,3173,Elton John,67,rock,,126,0,Unengaged
+nathanpacheco,1302,Nathan Pacheco,56,christian,,31,0.02,Circumstantially Engaged
+jnoeltorres,3202,Noel Torres,2,latin,,5,0,Unengaged
+trishayearwood,3228,Trisha Yearwood,3,christian,,21,0,Unengaged
+zaytovenbeatz,3135,Zaytoven,554,christian,,21,0,Unengaged
+logic301,3219,Logic,3144,hiphop and r&b,,13,0,Unengaged
+lindseystirling,3199,Lindsey Stirling,388,christian,,22,0,Unengaged
+melanielbbh,2,Melanie Martinez,47,pop,,0,0,Unengaged
+joansebastian,2111,Joan Sebastian,603,latin,,5,0,Unengaged
+jamielawsonuk,3236,Jamie Lawson,128,rock,,123,0,Unengaged
+joeymontanat,3158,Joey Montana,460,latin,,26,0,Unengaged
+ludacris,3232,Ludacris,160,hiphop and r&b,,1,0,Unengaged
+walkerhayes,3183,Walker Hayes,1015,country,,41,0,Unengaged
+mikeposner,3185,Mike Posner,792,pop,,37,0,Unengaged
+mileycyrus,3239,Miley Cyrus,351,pop,,141,0,Unengaged
+ragnbonemanuk,3187,Rag'n'Bone Man,1527,rock,,119,0,Unengaged
+lukecombs,3155,Luke Combs,5662,country,,42,0,Unengaged
+delongmusic,583,Robert DeLong,71,rock,,56,0,Unengaged
+mnek,2018,MNEK,547,pop,,28,0,Unengaged
+machinegunkelly,3201,Machine Gun Kelly,1897,hiphop and r&b,pop,26,0,Unengaged
+bairdpryor,1166,Pryor Baird,4,country,,45,0,Unengaged
+steffgretz,3232,Steffany Gretzinger,118,christian,,22,0,Unengaged
+dbradbery,3168,Danielle Bradbery,77,country,,45,0,Unengaged
+nathansykes,3216,Nathan Sykes,267,pop,,20,0,Unengaged
+stevencurtis,2161,Steven Curtis Chapman,1163,christian,,22,0.01,Circumstantially Engaged
+johnnyskymusic,3169,Johnny Sky,43,latin,,34,0,Unengaged
+macmiller,136,Mac Miller,132,hiphop and r&b,,1,0,Unengaged
+mcityjr,3131,M-City J.R.,14,hiphop and r&b,,28,0,Unengaged
+meekmill,8332,Meek Mill,2405,hiphop and r&b,,350,0,Unengaged
+adamlevine,599,Adam Levine,64,rock,,46,0,Circumstantially Engaged
+therealblanca,3206,Blanca,1661,christian,,22,0.01,Circumstantially Engaged
+stlucia,3225,St. Lucia,55,rock,,45,0,Unengaged
+jonatansanchez0,3210,Jonatan Sanchez,76,latin,,4,0,Unengaged
+jorge_valenz,2677,Jorge Valenzuela,49,latin,,4,0,Unengaged
+reba,3235,Reba McEntire,555,christian,country,23,0,Unengaged
+nfrealmusic,3180,NF,7599,pop,,19,0,Unengaged
+nickyjampr,3144,Nicky Jam,12582,pop,,11,0,Unengaged
+noahcyrus,3179,Noah Cyrus,580,pop,,125,0,Unengaged
+jonpardi,3216,Jon Pardi,4167,country,,45,0,Unengaged
+metroboomin,3147,Metro Boomin,2168,hiphop and r&b,,41,0,Unengaged
+joryreal,3230,Jory Boy,511,latin,,4,0,Unengaged
+jossfavela,3195,Joss Favela,258,latin,,35,0,Unengaged
+marysarahmusic,3215,Mary Sarah,53,country,,45,0,Unengaged
+miafieldes,3217,Mia Fieldes,8,hiphop and r&b,,11,0,Unengaged
+mikewillmadeit,3164,Make WILL made-it,98,hiphop and r&b,,117,0,Unengaged
+garyclarkjr,2849,Gary Clark Jr.,292,rock,,40,0,Unengaged
+kelseaballerini,3195,Kelsea Ballerini,4712,country,,46,0,Unengaged
+rileyclemmons,2308,Riley Clemmons,734,christian,,23,0.01,Circumstantially Engaged
+braidensunshine,1519,Braiden Sunshine,14,christian,,24,0,Unengaged
+jquiles,3150,Justin Quiles,248,latin,,16,0,Unengaged
+danbremnes,3209,Dan Bremnes,347,christian,,24,0,Unengaged
+juanes,3199,Juanes,1196,latin,,37,0,Unengaged
+julionalvarez,2365,Julion Alvarez,3879,latin,,11,0,Unengaged
+brandonlay,3179,Brandon Lay,7,country,,47,0,Unengaged
+mustard,3096,DJ Mustard,13,hiphop and r&b,,109,0,Unengaged
+karolgmusic,3160,Karol G,3041,latin,,77,0,Unengaged
+ollyofficial,3222,Olly Murs,21,pop,,43,0,Unengaged
+auroramusic,3183,AURORA,88,rock,pop,39,0,Unengaged
+ken_y_official,3219,Ken-Y,609,latin,,1,0,Unengaged
+partynextdoor,260,PARTYNEXTDOOR,902,pop,,1,0,Unengaged
+kevinortiznet,3230,Kevin Ortiz,309,latin,,1,0,Unengaged
+aliyahmoulden,1620,Aliyah Moulden,74,christian,,25,0.02,Circumstantially Engaged
+davidtdunn,3199,David Dunn,904,christian,,25,0,Unengaged
+rachelplatten,3194,Rachel Platten,905,pop,,43,0,Unengaged
+plumbmusic,3244,Plumb,2283,christian,,25,0.01,Circumstantially Engaged
+cwbyall,3201,Craig Wayne Boyd,176,country,,47,0,Unengaged
+bradpaisley,3211,Brad Paisley,2908,country,,50,0,Unengaged
+hawknelson,3189,Hawk Nelson,3277,christian,,27,0,Unengaged
+rihanna,3206,Rihanna,9396,pop,,33,0,Unengaged
+dierksbentley,3211,Dierks Bentley,5155,country,,51,0,Unengaged
+ericpaslay,3218,Eric Paslay,748,country,,51,0,Unengaged
+andymineo,3217,Andy Mineo,1200,christian,hiphop and r&b,28,0,Unengaged
+kheayf,3075,Khea,11,latin,,17,0,Unengaged
+klasico,3116,Klasico,12,latin,,8,0,Unengaged
+ashleymonroe,3231,Ashley Monroe,4,country,,52,0,Unengaged
+peteyorn,3202,Pete Yorn,4,rock,,39,0,Unengaged
+kanebrown,3057,Kane Brown,5486,country,,52,0,Unengaged
+hannahmiller,3229,Hannah Miller,22,rock,,36,0,Unengaged
+gawvi,3149,GAWVI,233,christian,,29,0,Unengaged
+larryhernandez1,3201,Larry Hernandez,233,latin,,22,0,Unengaged
+natalielarose,3114,Natalie La Rose,1868,hiphop and r&b,,40,0,Unengaged
+leandroriosmx,3174,Leandro Rios,100,latin,,41,0,Unengaged
+coleswindell,3206,Cole Swindell,5715,country,,54,0,Unengaged
+robin_schulz,3230,Robin Schulz,849,pop,,17,0,Unengaged
+lelepons,3159,Lele Pons,210,latin,,64,0,Unengaged
+lesliegrace,3193,Leslie Grace,23,latin,,45,0,Unengaged
+robinthicke,2747,Robin Thicke,167,pop,hiphop and r&b,32,0,Unengaged
+sabrinaannlynn,3195,Sabrina Carpenter,986,pop,,34,0,Unengaged
+liljon,3154,Lil Jon,41,latin,,115,0.01,Unengaged
+samhuntmusic,37,Sam Hunt,6011,pop,,0,0,Unengaged
+kramergirl,3115,Jana Kramer,1213,country,,54,0,Unengaged
+carlypearce,3209,Carly Pearce,1360,country,,56,0,Unengaged
+laurastorymusic,3005,Laura Story,265,christian,,29,0,Unengaged
+garyallan,3169,Gary Allan,3,country,,57,0.01,Circumstantially Engaged
+samsmith,3208,Sam Smith,1801,pop,,34,0,Unengaged
+mackbrock,3196,Mack Brock,19,christian,,29,0,Unengaged
+lin_manuel,3235,Lin-Manuel Miranda,101,latin,,80,0,Unengaged
+hannahkerr,3181,Hannah Kerr,620,christian,,30,0,Unengaged
+selenagomez,3202,Selena Gomez,4242,pop,,16,0,Unengaged
+shawnhook,3229,Shawn Hook,289,pop,,114,0,Unengaged
+nicholenordeman,3207,Nichole Nordeman,493,christian,,30,0,Unengaged
+nebukinizaoshs,2874,Nebu Kiniza,17,hiphop and r&b,,17,0,Unengaged
+official_tink,3080,Tink,62,hiphop and r&b,,29,0,Unengaged
+mickeyguyton,3196,Mickey Guyton,6,country,,57,0.01,Circumstantially Engaged
+skrillex,3219,Skrillex,496,pop,,27,0,Unengaged
+coreykentwhite,3177,Corey Kent White,22,country,,58,0,Unengaged
+luiscoronel,3149,Luis Coronel,742,latin,,29,0,Unengaged
+taylorswift13,103,Taylor Swift,4372,pop,,1,0,Unengaged
+barrettbaber,3154,Barrett Baber,112,country,,61,0,Unengaged
+torikelly,3226,Tori Kelly,1182,pop,,24,0,Unengaged
+torylanez,117,Tory Lanez,2342,pop,latin,0,0,Unengaged
+playboicarti,477,Playboi Carti,872,hiphop and r&b,,3,0,Unengaged
+maiteoficial,3186,Maite Perroni,53,latin,,26,0,Unengaged
+tompetty,3207,Tom Petty,840,rock,,36,0,Unengaged
+maluma,3211,Maluma,8737,latin,,7,0,Unengaged
+plies,3192,Plies,89,hiphop and r&b,,12,0,Unengaged
+pnbrock,3049,PnB Rock,363,hiphop and r&b,,39,0,Unengaged
+ellekingmusic,3224,Elle King,3222,rock,,32,0,Unengaged
+trvisxx,2896,Travis Scott,4497,pop,hiphop and r&b,12,0,Unengaged
+slash,3212,Slash,13,rock,,31,0,Unengaged
+andrewpeterson,3188,Andrew Peterson,9,christian,,32,0,Unengaged
+dylanscottcntry,3171,Dylan Scott,2475,country,,61,0,Unengaged
+preme,140,P Reign,18,hiphop and r&b,,2,0,Unengaged
+malutrevejo15,137,Malu Trevejo,135,latin,,0,0,Unengaged
+queennaija,3242,Queen Naija,350,hiphop and r&b,,34,0,Unengaged
+rayparkerjr,1069,Ray Parker Jr.,26,hiphop and r&b,,2,0,Unengaged
+realremyma,2685,Remy Ma,734,hiphop and r&b,,17,0,Unengaged
+frankieballard,3156,Frankie Ballard,1280,country,,61,0.01,Circumstantially Engaged
+shaniatwain,3186,Shania Twain,25,country,,61,0.01,Circumstantially Engaged
+ricegum,3244,RiceGum,36,hiphop and r&b,,0,0,Unengaged
+zaynmalik,3198,Zayn,1390,pop,,34,0,Unengaged
+steveaoki,3207,Steve Aoki,194,pop,,115,0.01,Circumstantially Engaged
+tovelo,3224,Tove Lo,705,pop,,44,0.01,Circumstantially Engaged
+kflay,3208,K.Flay,71,rock,,29,0,Unengaged
+_kennyrogers,3208,Kenny Rogers,58,rock,,28,0,Unengaged
+mandisaofficial,3228,Mandisa,2262,christian,,32,0,Unengaged
+manuelturizomtz,301,Manuel Turizo,824,latin,,0,0,Unengaged
+patthebarrett,1885,Pat Barrett,854,christian,,34,0.01,Circumstantially Engaged
+carrieunderwood,3216,Carrie Underwood,6707,country,,63,0.01,Circumstantially Engaged
+philwickham,3242,Phil Wickham,2585,christian,,34,0,Unengaged
+kipmooremusic,3142,Kip Moore,2149,country,,63,0.01,Circumstantially Engaged
+troyesivan,3199,Troye Sivan,784,pop,,18,0.01,Circumstantially Engaged
+marcanthony,3238,Marc Anthony,350,latin,,24,0,Unengaged
+nataliegrant,3227,Natalie Grant,3372,christian,,36,0,Unengaged
+saraevansmusic,3193,Sara Evans,12,country,,64,0,Unengaged
+marcoasolis,3202,Marco Antonio Solis,5,latin,,11,0,Unengaged
+matthunter123,3184,Matt Hunter,48,latin,,5,0,Unengaged
+emilyann_music,3204,Emily Ann Roberts,352,country,,65,0.01,Circumstantially Engaged
+george_ezra,3186,George Ezra,2633,rock,,28,0,Unengaged
+zaralarsson,1407,Zara Larsson,845,pop,,53,0.01,Circumstantially Engaged
+1youngtakeoff,3055,Takeoff,61,pop,,48,0.01,Circumstantially Engaged
+richhomiequan,3124,Rich Homie Quan,1069,hiphop and r&b,,28,0,Unengaged
+richthekid,947,Rich The Kid,1049,hiphop and r&b,,7,0,Unengaged
+russdiemon,3185,Russ,465,hiphop and r&b,,5,0,Unengaged
+s_c_,263,JAY-Z,1139,hiphop and r&b,,0,0,Unengaged
+sagethegemini,3098,Sage The Gemini,273,hiphop and r&b,,34,0,Unengaged
+mue_k,3133,Mueka,24,latin,,3,0,Unengaged
+sahbabii,3069,SahBabii,4,hiphop and r&b,,28,0,Unengaged
+sheckwes,3169,Sheck Wes,226,hiphop and r&b,,31,0,Unengaged
+snakehipsuk,3157,Snakehips,127,hiphop and r&b,,40,0,Unengaged
+snoopdogg,3239,Snoop Dogg,26,hiphop and r&b,,21,0,Unengaged
+snootiewild,3101,Snootie Wild,31,hiphop and r&b,,38,0,Unengaged
+sushitrash,247,Joji,1,hiphop and r&b,,2,0,Unengaged
+tayk,2992,Tay-K,509,hiphop and r&b,,27,0,Unengaged
+musicfavela,506,Favela,2,latin,,11,0,Unengaged
+peterhollens,3232,Peter Hollens,80,christian,,36,0,Unengaged
+raelynn,3175,RaeLynn,697,country,,65,0.01,Circumstantially Engaged
+thederekminor,1063,Derek Minor,31,christian,,36,0.04,Circumstantially Engaged
+adamlambert,3205,Adam Lambert,561,pop,,63,0.01,Circumstantially Engaged
+tee_grizzley,3103,Tee Grizzley,418,hiphop and r&b,,37,0,Unengaged
+eastoncorbin,3179,Easton Corbin,1596,country,,67,0,Unengaged
+thegame,3231,The Game,412,hiphop and r&b,,1,0,Unengaged
+andersoneast,3206,Anderson East,38,rock,,27,0,Unengaged
+bigsean,3067,Big Sean,4347,pop,hiphop and r&b,53,0.01,Circumstantially Engaged
+thekingdream,3215,The-Dream,13,hiphop and r&b,,29,0,Unengaged
+nacholacriatura,3214,Nacho,996,latin,,131,0,Unengaged
+nattinatasha,3202,Natti Natasha,6765,latin,,58,0,Unengaged
+britneyspears,3209,Britney Spears,599,pop,,54,0.01,Circumstantially Engaged
+claredunnmusic,3134,Clare Dunn,48,country,,68,0,Unengaged
+aaron_watson,3179,Aaron Watson,420,country,,69,0,Unengaged
+daya,3210,Daya,1764,pop,,69,0.01,Circumstantially Engaged
+rileygreenmusic,3102,Riley Green,87,country,,70,0.01,Circumstantially Engaged
+therealtank,3139,Tank,177,hiphop and r&b,,42,0,Unengaged
+lincolnbrewster,1806,Lincoln Brewster,1816,christian,,37,0.01,Circumstantially Engaged
+colemanhell,3077,Coleman Hell,862,rock,,27,0,Unengaged
+dennislloyd_,111,Dennis Lloyd,238,pop,,2,0.01,Circumstantially Engaged
+trippieredd,156,Trippie Redd,138,hiphop and r&b,,1,0,Unengaged
+trvisxx,2896,Travi$ Scott,139,hiphop and r&b,,12,0,Unengaged
+edenxo,3185,Eden XO,112,pop,,66,0.01,Circumstantially Engaged
+fettywap,3174,Fetty Wap,7513,pop,,49,0.01,Circumstantially Engaged
+jamesbaymusic,3237,James Bay,4239,rock,,27,0,Unengaged
+negodoborel,1940,Nego do Borel,986,latin,,12,0,Unengaged
+ccuevasmusic,620,Christian Cuevas,39,christian,,38,0.06,Circumstantially Engaged
+nioeldragon,3133,Nio Garcia,582,latin,,11,0,Unengaged
+noriel_danger,2978,Noriel,8,latin,,15,0,Unengaged
+itspaxton,3179,Paxton Ingram,96,christian,,39,0,Unengaged
+lecrae,3211,Lecrae,5493,christian,,39,0,Unengaged
+officialozuna,3230,Ozuna,14395,latin,,0,0,Unengaged
+tedashii,3235,Tedashii,319,christian,,39,0.01,Circumstantially Engaged
+offsetyrn,3049,Offset,2202,latin,hiphop and r&b,66,0.01,Unengaged
+gwenstefani,3131,Gwen Stefani,601,pop,,71,0.01,Circumstantially Engaged
+jasongraymusic,3223,Jason Gray,1371,christian,,41,0,Unengaged
+pabloalboran,3194,Pablo Alboran,85,latin,,45,0,Unengaged
+clarembee,3191,Clare Bowen,14,country,,71,0.01,Circumstantially Engaged
+twaynebsm,2756,T-Wayne,925,hiphop and r&b,,19,0,Unengaged
+jasonderulo,3153,Jason Derulo,1940,pop,,49,0.01,Circumstantially Engaged
+joshritter,3218,Josh Ritter,7,rock,,27,0,Unengaged
+jessglynne,3224,Jess Glynne,316,pop,,52,0.01,Circumstantially Engaged
+coltondixon,3239,Colton Dixon,2043,christian,,42,0,Unengaged
+jordan_fisher,3236,Jordan Fisher,356,pop,,66,0.01,Circumstantially Engaged
+jtimberlake,3230,Justin Timberlake,1170,pop,,71,0.01,Circumstantially Engaged
+tylerthecreator,3195,"Tyler, The Creator",34,hiphop and r&b,,8,0,Unengaged
+adamwakefield,1835,Adam Wakefield,186,country,,72,0.01,Circumstantially Engaged
+jakeowen,3148,Jake Owen,2661,country,,77,0.01,Circumstantially Engaged
+shelbygailbrown,2107,Shelby Brown,135,christian,,42,0.01,Circumstantially Engaged
+thatgirlbishop,3220,Bishop Briggs,1353,rock,,25,0,Unengaged
+getthecanon,3216,Canon,11,christian,,43,0,Unengaged
+tobymac,3191,tobyMac,7131,christian,,44,0.01,Circumstantially Engaged
+brookesimpson,3182,Brooke Simpson,58,christian,,46,0,Unengaged
+pacho_alqaedas,13,Pacho El Antifeka,14,latin,,0,0,Unengaged
+jennjohnson20,3208,Jenn Johnson,18,christian,,46,0,Unengaged
+bornsmusic,3234,BORNS,1134,rock,,22,0,Unengaged
+uglygod,96,Ugly God,91,hiphop and r&b,,0,0,Unengaged
+vincestaples,1030,Vince Staples,2,hiphop and r&b,,7,0,Unengaged
+kristianbush,3214,Kristian Bush,238,country,,77,0.01,Circumstantially Engaged
+juliamichaels,3163,Julia Michaels,971,pop,rock,69,0.01,Circumstantially Engaged
+bannersmusic,3236,BANNERS,167,rock,,20,0,Unengaged
+justinbieber,3192,Justin Bieber,1946,pop,,70,0.01,Circumstantially Engaged
+baldwinjosh,3212,Josh Baldwin,222,christian,,48,0.01,Circumstantially Engaged
+wale,3202,Wale,1404,hiphop and r&b,,38,0,Unengaged
+wizkhalifa,3145,Wiz Khalifa,4774,hiphop and r&b,,21,0,Unengaged
+birdy,1958,Birdy,124,rock,,20,0,Unengaged
+ryansmusic,3215,Ryan Stevenson,3678,christian,,51,0.01,Circumstantially Engaged
+randyhouser,3156,Randy Houser,1302,country,,78,0,Unengaged
+iamhollyn,3100,Hollyn,2116,christian,,52,0.01,Circumstantially Engaged
+iamstevent,2287,Steven Tyler,155,country,,91,0.02,Circumstantially Engaged
+xxxtentacion,2427,XXXTENTACION,3737,hiphop and r&b,,27,0,Unengaged
+brandicarlile,1411,Brandi Carlile,8,rock,,20,0,Unengaged
+kanyewest,1153,Kanye West,4648,pop,hiphop and r&b,20,0.01,Circumstantially Engaged
+noahkahan,1533,Noah Kahan,277,rock,,20,0,Unengaged
+ybnnahmir,3067,YBN Nahmir,348,hiphop and r&b,,30,0,Unengaged
+kendricklamar,3185,Kendrick Lamar,8465,pop,,62,0.01,Circumstantially Engaged
+actionbronson,3200,Action Bronson,202,rock,hiphop and r&b,18,0,Unengaged
+michaelraymusic,3197,Michael Ray,2484,country,,112,0.01,Circumstantially Engaged
+yelawolf,21,YelaWolf,50,hiphop and r&b,,0,0,Unengaged
+liampayne,3215,Liam Payne,1302,pop,,59,0.01,Circumstantially Engaged
+sundancehead,3217,Sundance Head,247,country,,113,0.01,Circumstantially Engaged
+drakewhite,3167,Drake White,786,country,,120,0.02,Circumstantially Engaged
+lauren_alaina,3177,Lauren Alaina,1214,country,,122,0.02,Circumstantially Engaged
+meremusic,3216,Meredith Andrews,826,christian,,55,0.01,Circumstantially Engaged
+kimwalkersmith,2784,Kim Walker-Smith,694,christian,,56,0.01,Circumstantially Engaged
+louis_tomlinson,3239,Louis Tomlinson,276,pop,,49,0.01,Circumstantially Engaged
+lauren_daigle,3237,Lauren Daigle,8579,christian,country,59,0.01,Circumstantially Engaged
+codycarnes,3210,Cody Carnes,64,christian,,61,0,Unengaged
+paulolondra,3225,Paulo Londra,3,latin,,1,0,Unengaged
+pitbull,3198,Pitbull,4604,latin,pop,40,0.01,Unengaged
+yellabeezy214,3209,Yella Beezy,170,hiphop and r&b,,19,0,Unengaged
+princeroyce,3124,Prince Royce,5229,latin,,42,0,Unengaged
+ynwmelly,1409,YNW Melly,2,hiphop and r&b,,16,0,Unengaged
+yogotti,3188,Yo Gotti,2237,hiphop and r&b,,33,0,Unengaged
+jonathanhay,1443,Jonathan Hay,311,christian,,61,0.01,Circumstantially Engaged
+youngrobstone,3089,Rob $tone,877,hiphop and r&b,,37,0,Unengaged
+thejesselarson,2865,Jesse Larson,117,rock,,16,0,Unengaged
+matt_redman,1749,Matt Redman,165,christian,,62,0.01,Circumstantially Engaged
+marianhillmusic,3208,Marian Hill,416,pop,,52,0.01,Circumstantially Engaged
+pushocpw,2177,Pusho,5,latin,,0,0,Unengaged
+wmmorgan,3213,William Michael Morgan,684,country,,122,0.02,Circumstantially Engaged
+youngthug,3198,Young Thug,1441,hiphop and r&b,,15,0,Unengaged
+ramirez_lenin,3239,Lenin Ramirez,156,latin,,0,0,Unengaged
+markronson,3220,Mark Ronson,616,pop,rock,80,0.01,Circumstantially Engaged
+yugenblakrok,2555,Yugen Blakrok,2,hiphop and r&b,,38,0,Unengaged
+marshmellomusic,3177,Marshmello,2312,pop,,62,0.01,Circumstantially Engaged
+mrprobz,3195,Mr. Probz,149,pop,,51,0.01,Circumstantially Engaged
+triplee,3246,Trip Lee,185,christian,,62,0.01,Circumstantially Engaged
+nelly_mo,3087,Nelly,968,pop,,56,0.01,Circumstantially Engaged
+niallofficial,3215,Niall Horan,1800,pop,,65,0.01,Circumstantially Engaged
+nickiminaj,3100,Nicki Minaj,6963,pop,hiphop and r&b,56,0.01,Circumstantially Engaged
+nickjonas,3177,Nick Jonas,1762,pop,,60,0.01,Circumstantially Engaged
+raul_casillas,837,Raul Casillas,262,latin,,1,0,Unengaged
+amyleeev,1737,Amy Lee,16,rock,,15,0,Unengaged
+pharrell,3219,Pharrell Williams,19,pop,,78,0.01,Circumstantially Engaged
+passengermusic,2659,Passenger,32,rock,,15,0,Unengaged
+regulocaro,3213,Regulo Caro,2387,latin,,3,0,Unengaged
+redone_official,3225,RedOne,203,pop,latin,57,0.01,Circumstantially Engaged
+ritaora,3197,Rita Ora,107,pop,,52,0.01,Circumstantially Engaged
+_maxwell_,3239,Maxwell,1,hiphop and r&b,,55,0,Unengaged
+lukebryanonline,3195,Luke Bryan,8829,country,,128,0,Unengaged
+50cent,3212,50 Cent,22,hiphop and r&b,,67,0,Unengaged
+reikmx,3138,Reik,2486,latin,,21,0.01,Unengaged
+aarondgibson,381,Aaron Gibson,9,rock,,14,0,Unengaged
+beck,1190,Beck,2523,rock,,14,0,Unengaged
+remmyvalenzuela,3239,Remmy Valenzuela,2308,latin,,14,0,Unengaged
+andradaymusic,3199,Andra Day,62,hiphop and r&b,,62,0.01,Circumstantially Engaged
+sleepytom,3209,Sleepy Tom,134,pop,,54,0.01,Circumstantially Engaged
+reykon,3205,Reykon,476,latin,,11,0,Unengaged
+augustalsina,3035,August Alsina,144,hiphop and r&b,,71,0.01,Circumstantially Engaged
+hunterplake,1023,Hunter Plake,29,rock,,14,0,Unengaged
+ricardo_arjona,3167,Ricardo Arjona,1,latin,,16,0,Unengaged
+roberto__tapia,3227,Roberto Tapia,759,latin,,13,0,Unengaged
+therealsilento,1595,Silento,2144,pop,,30,0.01,Circumstantially Engaged
+kidrock,1559,Kid Rock,609,rock,,13,0,Unengaged
+emceenicela,3177,Emcee N.I.C.E.,124,christian,,64,0.01,Circumstantially Engaged
+dannygokey,3196,Danny Gokey,5236,christian,,65,0.01,Circumstantially Engaged
+mattmcandrew,3207,Matt McAndrew,125,rock,,12,0,Unengaged
+sauleljaguar,3241,Saul El Jaguar,127,latin,,1,0,Unengaged
+sebastianyatra,3221,Sebastian Yatra,934,latin,,17,0,Unengaged
+jordansmithlive,2983,Jordan Smith,969,christian,,65,0.01,Circumstantially Engaged
+bobpressner,677,Bob Pressner,80,rock,,9,0,Unengaged
+tinietempah,3114,Tinie Tempah,169,pop,,69,0.01,Circumstantially Engaged
+relientk,3114,Relient K,35,christian,,69,0.01,Circumstantially Engaged
+zedd,3189,Zedd,2410,pop,,79,0.01,Circumstantially Engaged
+silvestrefdc,3187,Silvestre Dangond,1624,latin,,39,0,Unengaged
+cheddadaconnect,3137,Chedda Da Connect,247,hiphop and r&b,,53,0,Unengaged
+ciara,3205,Ciara,628,hiphop and r&b,,55,0,Unengaged
+davonfleming,1607,Davon Fleming,9,christian,,70,0.01,Circumstantially Engaged
+djlukenastyy,3099,DJ Luke Nasty,463,hiphop and r&b,,51,0.01,Circumstantially Engaged
+drdre,180,Dr. Dre,17,hiphop and r&b,,3,0.01,Circumstantially Engaged
+joshuadavis,3227,Joshua Davis,153,rock,,8,0,Unengaged
+soyjuangabriel,777,Juan Gabriel,453,latin,,1,0,Unengaged
+dreezydreezy,3166,Dreezy,428,hiphop and r&b,,49,0.01,Circumstantially Engaged
+tbambino,3208,"Tito ""El Bambino"" El Parton",615,latin,,16,0,Unengaged
+e40,3136,E-40,40,hiphop and r&b,,64,0.01,Circumstantially Engaged
+goldlink,496,GoldLink,656,hiphop and r&b,,12,0.01,Circumstantially Engaged
+dualipa,3219,Dua Lipa,2944,pop,,107,0.01,Circumstantially Engaged
+brettyoungmusic,3148,Brett Young,4568,country,,131,0,Unengaged
+alicemerton,635,Alice Merton,1765,rock,,7,0,Unengaged
+thalia,3230,Thalia,1120,latin,,4,0,Unengaged
+spenshabaker,3163,Spensha Baker,14,country,,142,0.02,Circumstantially Engaged
+thelatinboyreal,3178,Tomas The Latin Boy,78,latin,,10,0,Unengaged
+raylamontagne,919,Ray LaMontagne,93,rock,,6,0,Unengaged
+hunchoxjack,1982,Huncho Jack,135,hiphop and r&b,,34,0,Unengaged
+ilovemakonnen,652,I LOVE MAKONNEN,705,hiphop and r&b,pop,10,0.01,Circumstantially Engaged
+celestebetton,1150,Celeste Betton,38,christian,,72,0.06,Circumstantially Engaged
+nealmccoy,3187,Neal McCoy,2,country,,223,0.01,Circumstantially Engaged
+elleyduhe,1013,Elley Duhe,249,pop,,26,0.02,Circumstantially Engaged
+tonydizereal,2,Tony Dize,554,latin,,0,0,Unengaged
+trapcapos,341,Trap Capos,4,latin,,2,0,Unengaged
+msmithbubbles,3209,Mike Smith,311,christian,,72,0.01,Circumstantially Engaged
+jessiereyez,3183,Jessie Reyez,20,hiphop and r&b,,52,0.01,Circumstantially Engaged
+victormanuelle,3201,Victor Manuelle,938,latin,,40,0,Unengaged
+baabamaal,1116,Baaba Maal,180,rock,,5,0,Unengaged
+virlangarcianet,491,Virlan Garcia,7,latin,,0,0,Unengaged
+johnmayer,2698,John Mayer,2440,rock,,5,0,Unengaged
+willy_william,627,Willy William,2628,latin,,6,0.01,Unengaged
+kidcudi,3094,Kid Cudi,4,hiphop and r&b,,48,0,Unengaged
+kodakblack1k,3178,Kodak Black,2549,hiphop and r&b,,49,0,Unengaged
+lildickytweets,3155,Lil Dicky,1059,hiphop and r&b,,62,0.01,Circumstantially Engaged
+lilmosey,127,Lil Mosey,29,hiphop and r&b,,2,0.01,Circumstantially Engaged
+wisinoficial,3219,Wisin,6604,latin,,3,0,Unengaged
+fergie,3202,Fergie,67,pop,,86,0.02,Circumstantially Engaged
+shekukm,3055,Sheku Kanneh-Mason,27,christian,,85,0.04,Circumstantially Engaged
+hozier,12898,Hosier,5,country,,224,0.01,Circumstantially Engaged
+iamcardib,3067,Cardi B,9511,pop,,82,0.02,Circumstantially Engaged
+wolfine98,3031,Wolfine,495,latin,,12,0,Unengaged
+ladygaga,3159,Lady Gaga,854,pop,,107,0.02,Circumstantially Engaged
+macklemore,3175,Macklemore [and Ryan Lewis],1008,pop,hiphop and r&b,89,0.02,Circumstantially Engaged
+meekmill,8332,Darius Rucker,2356,country,,350,0.02,Circumstantially Engaged
+lilxanfuhyobih,2886,Lil Xan,324,hiphop and r&b,,50,0,Unengaged
+xcheyoc,1849,Cheyo Carrillo,138,latin,,2,0,Unengaged
+thetimmcgraw,990,Tim McGraw,687,country,,20,0.01,Circumstantially Engaged
+madeintyo,3157,MadeinTYO,582,hiphop and r&b,,52,0.01,Circumstantially Engaged
+lewiscapaldi,3218,Lewis Capaldi,4,rock,,5,0,Unengaged
+mariahcarey,3194,Mariah Carey,39,hiphop and r&b,,57,0.01,Circumstantially Engaged
+thetimmcgraw,990,Tim McGraw,4228,country,,20,0.01,Circumstantially Engaged
+yiyosarante,3203,Yiyo Sarante,1,latin,,14,0,Unengaged
+israelhoughton,3220,Israel Houghton,71,christian,,86,0.02,Circumstantially Engaged
+official_flo,3208,Flo Rida,2740,pop,,88,0.02,Circumstantially Engaged
+maryjblige,3122,Mary J. Blige,4,hiphop and r&b,,55,0.01,Circumstantially Engaged
+rynweaver,3206,Ryn Weaver,118,pop,,108,0.02,Circumstantially Engaged
+missyelliott,3189,Missy Elliott,543,hiphop and r&b,,79,0.01,Circumstantially Engaged
+nas,3130,Nas,2,hiphop and r&b,,60,0.01,Circumstantially Engaged
+shawnmendes,3189,Shawn Mendes,3514,pop,,92,0.02,Circumstantially Engaged
+xtina,1440,Christina Aguilera,23,country,,25,0.01,Circumstantially Engaged
+sia,3197,Sia,1739,pop,,98,0.02,Circumstantially Engaged
+tylerrichmusic,3200,Tyler Rich,86,country,,49,0.01,Circumstantially Engaged
+iamaaroncolee,3183,Aaron Cole,398,christian,,88,0.02,Circumstantially Engaged
+yochuylizarraga,3102,Chuy Lizarraga,450,latin,,14,0,Unengaged
+jefflynneselo,639,Jeff Lynne,69,rock,,4,0,Unengaged
+nataliajimenez,3166,Natalia Jimenez,349,hiphop and r&b,,49,0.01,Circumstantially Engaged
+zdevin,3213,Devin Dawson,1016,country,,50,0.02,Circumstantially Engaged
+matthammitt,3215,Matt Hammitt,41,christian,,90,0.03,Circumstantially Engaged
+yosoyalexrose,958,Alex Rose,19,latin,,1,0,Unengaged
+thegreatkhalid,3136,Khalid,4642,pop,hiphop and r&b,95,0.02,Circumstantially Engaged
+walkermcguire,3194,Walker McGuire,1,country,,53,0.01,Circumstantially Engaged
+yunelcruz,3172,Yunel Cruz,7,latin,,19,0,Unengaged
+zachbrown_55,3208,Zac Brown,22,country,,53,0.01,Circumstantially Engaged
+djsnake,3131,DJ Snake,2203,pop,,44,0.02,Circumstantially Engaged
+drake,1706,Drake,24152,pop,,22,0.02,Circumstantially Engaged
+neyocompound,3206,Ne-Yo,1462,hiphop and r&b,pop,69,0.01,Circumstantially Engaged
+brananmurphy,3212,Branan Murphy,71,christian,,91,0.02,Circumstantially Engaged
+kb_hga,3234,KB,466,christian,,92,0.03,Circumstantially Engaged
+symlmusic,677,SYML,329,rock,,4,0,Unengaged
+officialjaden,3178,Jaden Smith,9,hiphop and r&b,,66,0.01,Circumstantially Engaged
+heyamine,1273,Amine,1121,pop,hiphop and r&b,13,0.02,Circumstantially Engaged
+yuritaflowers,3184,Yuridia,99,latin,,6,0,Unengaged
+banks,3216,Banks,104,rock,,3,0,Unengaged
+davidbowiereal,1821,David Bowie,1001,rock,,2,0,Unengaged
+jimcroce,3248,Jim Croce,31,rock,,2,0,Unengaged
+kayastewart,1296,Kaya Stewart,193,pop,,9,0.02,Circumstantially Engaged
+noah_mac,250,Noah Mac,99,rock,,2,0,Unengaged
+labrinth,3213,Labrinth,133,pop,,30,0.02,Circumstantially Engaged
+ogmaco,3191,OG Maco,54,hiphop and r&b,,54,0.01,Circumstantially Engaged
+otgenasis,3136,O.T. Genasis,1353,hiphop and r&b,,60,0.01,Circumstantially Engaged
+remixgodsuede,3148,DJ Suede The Remix God,52,hiphop and r&b,,77,0.01,Circumstantially Engaged
+starleymusic,1487,Starley,346,pop,,10,0.03,Circumstantially Engaged
+rickross,3200,Rick Ross,136,hiphop and r&b,,74,0.01,Circumstantially Engaged
+zferreiras,3194,Zacarias Ferreira,92,latin,,26,0,Unengaged
+pedrocapo,3162,Pedro Capo,17,latin,,68,0.01,Circumstantially Engaged
+tobykeith,3198,Toby Keith,160,country,,77,0.02,Circumstantially Engaged
+blancobuffalo,1425,The White Buffalo,21,rock,,1,0,Unengaged
+camila_cabello,3192,Camila Cabello,3183,pop,,86,0.03,Circumstantially Engaged
+jordan_feliz,3192,Jordan Feliz,4358,christian,,93,0.02,Circumstantially Engaged
+ricky_martin,3231,Ricky Martin,3075,latin,,56,0.01,Circumstantially Engaged
+davidguetta,3213,David Guetta,1284,pop,,100,0.03,Circumstantially Engaged
+deannajohnson23,1463,Deanna Johnson,126,christian,,100,0.07,Circumstantially Engaged
+micahtylermusic,3220,Micah Tyler,2851,christian,,106,0.03,Circumstantially Engaged
+nateruessmusic,295,Nate Ruess,834,rock,,1,0,Unengaged
+sineadoconnorhq,96,Sinead O'Connor,35,rock,,1,0,Unengaged
+stevewinwood,486,Steve Winwood,69,rock,,1,0,Unengaged
+yorobbailey,241,Rob Bailey,46,rock,,1,0,Unengaged
+faithhill,1787,Faith Hill,1175,country,,54,0.02,Circumstantially Engaged
+rojamesxix,92,Ro James,58,hiphop and r&b,,2,0.01,Circumstantially Engaged
+andyblack,8,Andy Black,83,rock,,0,0,Unengaged
+schoolboyq,3169,ScHoolboy Q,580,hiphop and r&b,,61,0.01,Circumstantially Engaged
+shyglizzy,3103,Shy Glizzy,6,hiphop and r&b,,49,0.01,Circumstantially Engaged
+beckahshae,3233,Beckah Shae,11,christian,,118,0,Unengaged
+solangeknowles,421,Solange,70,hiphop and r&b,,10,0.01,Circumstantially Engaged
+kathielgifford,3190,Kathie Lee Gifford,122,christian,,118,0,Unengaged
+alesso,2461,Alesso,684,pop,,74,0.04,Circumstantially Engaged
+romeosantospage,3112,Romeo Santos,11469,latin,,47,0.01,Circumstantially Engaged
+sza,3114,SZA,2504,hiphop and r&b,,55,0.01,Circumstantially Engaged
+avrillavigne,3201,Avril Lavigne,242,christian,,129,0,Unengaged
+techn9ne,3186,Tech N9Ne,280,hiphop and r&b,,57,0.01,Circumstantially Engaged
+teyanataylor,3141,Teyana Taylor,1,hiphop and r&b,,76,0.01,Circumstantially Engaged
+rvssian,3122,Rvssian,1111,latin,,67,0.01,Circumstantially Engaged
+benrector,3205,Ben Rector,1167,rock,,0,0,Unengaged
+jasminesmurray,3207,Jasmine Murray,649,christian,,140,0.01,Circumstantially Engaged
+austinfrench316,1797,Austin French,921,christian,,154,0.01,Circumstantially Engaged
+therealjuicyj,3122,Juicy J,468,hiphop and r&b,,54,0.01,Circumstantially Engaged
+beberexha,3169,Bebe Rexha,2442,pop,hiphop and r&b,90,0.04,Circumstantially Engaged
+chuckberry,154,Chuck Berry,125,rock,,0,0,Unengaged
+tinashe,3176,Tinashe,429,hiphop and r&b,,78,0.01,Circumstantially Engaged
+shakira,3169,Shakira,5498,latin,,76,0.01,Circumstantially Engaged
+mattmahermusic,3211,Matt Maher,3475,christian,,166,0.05,Circumstantially Engaged
+tkkravitz,3049,TK Kravitz,58,hiphop and r&b,,46,0.01,Circumstantially Engaged
+afrojack,1715,Afrojack,251,pop,,89,0.05,Circumstantially Engaged
+treysongz,3156,Trey Songz,1132,hiphop and r&b,,78,0.01,Circumstantially Engaged
+dhaniharrison,1309,Dhani Harrison,69,rock,,0,0,Unengaged
+keithurban,3231,Keith Urban,6616,country,,84,0.02,Circumstantially Engaged
+ronniedunn,3162,Ronnie Dunn,45,country,,87,0.02,Circumstantially Engaged
+zachseabaugh,3177,Zach Seabaugh,32,country,,87,0.02,Circumstantially Engaged
+sosofiareyes,3221,Sofia Reyes,652,latin,,55,0.01,Circumstantially Engaged
+yfnlucci,3106,YFN Lucci,836,hiphop and r&b,,62,0.01,Circumstantially Engaged
+jeremih,109,Jeremih,1998,pop,,5,0.05,Circumstantially Engaged
+aliciakeys,3213,Alicia Keys,118,hiphop and r&b,rock,111,0.02,Circumstantially Engaged
+chrisbluelive,1620,Chris Blue,23,hiphop and r&b,,46,0.02,Circumstantially Engaged
+leebrice,3171,Lee Brice,2581,country,,88,0.02,Circumstantially Engaged
+joshwilsonsb,3249,Josh Wilson,1344,christian,,180,0.06,Circumstantially Engaged
+blakeshelton,3202,Blake Shelton,8227,country,,95,0.03,Circumstantially Engaged
+stefflondon,3091,Stefflon Do,254,latin,,63,0.01,Circumstantially Engaged
+lanadelrey,133,Lana Del Rey,1151,rock,,0,0,Unengaged
+tommy_torres,3232,Tommy Torres,41,latin,,50,0.01,Circumstantially Engaged
+taurenwells,3216,Tauren Wells,2991,christian,,180,0.06,Circumstantially Engaged
+kygomusic,1537,Kygo,1391,pop,,73,0.05,Circumstantially Engaged
+sofitukker,3158,Sofi Tukker,290,pop,,155,0.05,Circumstantially Engaged
+jamesarthur23,3139,James Arthur,551,pop,,179,0.06,Circumstantially Engaged
+uliceschaidez1,56,Ulices Chaidez,1652,latin,,1,0.01,Circumstantially Engaged
+scottymccreery,3180,Scotty McCreery,1229,country,,96,0.03,Circumstantially Engaged
+joenichols,3217,Joe Nichols,216,country,,97,0.03,Circumstantially Engaged
+diddy,3197,Puff Daddy,7,hiphop and r&b,,87,0.02,Circumstantially Engaged
+marandarcurtis,3076,Maranda Curtis,4,christian,,185,0.06,Circumstantially Engaged
+djdrama,3165,DJ Drama,287,hiphop and r&b,,92,0.02,Circumstantially Engaged
+jefferyaustin,3179,Jeffery Austin,45,christian,,203,0.06,Circumstantially Engaged
+carlosvives,3220,Carlos Vives,3905,latin,,93,0.02,Circumstantially Engaged
+normani,3084,Normani,706,pop,,201,0.07,Circumstantially Engaged
+elliegoulding,272,Ellie Goulding,1582,pop,,22,0.08,Circumstantially Engaged
+flippdinero,2075,Flipp Dinero,44,hiphop and r&b,,66,0.02,Circumstantially Engaged
+toddchrisley,3165,Todd Chrisley,12,country,,97,0.03,Circumstantially Engaged
+frenchmontana,3177,French Montana,2567,hiphop and r&b,pop,101,0.02,Circumstantially Engaged
+lorde,2,Lorde,537,rock,,0,0,Unengaged
+jeezy,3072,Jeezy,1,hiphop and r&b,,91,0.02,Circumstantially Engaged
+thomasrhett,3194,Thomas Rhett,8999,country,,99,0.03,Circumstantially Engaged
+jrodfromoz,3231,Jerrod Niemann,162,country,,100,0.03,Circumstantially Engaged
+kehlani,1278,Kehlani,448,hiphop and r&b,,38,0.02,Circumstantially Engaged
+kid_ink,3170,Kid Ink,1537,hiphop and r&b,,80,0.02,Circumstantially Engaged
+kriswu,163,Kris Wu,21,hiphop and r&b,,5,0.02,Circumstantially Engaged
+corneliovegajr,2538,Cornelio Vega,151,latin,,87,0.02,Circumstantially Engaged
+rodneyatkins,3167,Rodney Atkins,65,country,,102,0.04,Circumstantially Engaged
+lilpump,2973,Lil Pump,1466,hiphop and r&b,,102,0.02,Circumstantially Engaged
+prince,6,Prince,763,rock,,0,0,Unengaged
+daddy_yankee,3208,Daddy Yankee,10293,latin,pop,82,0.02,Circumstantially Engaged
+miguel,3119,Miguel,923,hiphop and r&b,,87,0.02,Circumstantially Engaged
+djkassny,33,DJ Kass,852,latin,,1,0.02,Circumstantially Engaged
+pusha_t,3174,Pusha T,50,hiphop and r&b,,96,0.02,Circumstantially Engaged
+janson_chris,3223,Chris Janson,3122,country,,111,0.04,Circumstantially Engaged
+tylerfarr,3200,Tyler Farr,1156,country,,111,0.04,Circumstantially Engaged
+adam_cunningham,243,Adam Cunningham,3,country,,11,0.05,Circumstantially Engaged
+elviscrespo,3185,Elvis Crespo,86,latin,,92,0.02,Circumstantially Engaged
+fuerza_regida,30,Fuerza Regida,63,latin,,1,0.02,Circumstantially Engaged
+quavostuntin,3115,Quavo,454,hiphop and r&b,,80,0.02,Circumstantially Engaged
+kaceymusgraves,1245,Kacey Musgraves,381,country,,60,0.05,Circumstantially Engaged
+jesusmiranda,3176,Chyno Miranda,172,latin,,101,0.02,Circumstantially Engaged
+jlo,3181,Jennifer Lopez,2285,latin,,95,0.03,Circumstantially Engaged
+brennleybrown,3197,Brennley Brown,26,country,,161,0.05,Circumstantially Engaged
+royceda59,3173,Royce Da 5'9,8,hiphop and r&b,,110,0.02,Circumstantially Engaged
+juanmagan,3177,Juan Magan,579,latin,,103,0.03,Circumstantially Engaged
+tamarbraxtonher,3140,Tamar Braxton,122,hiphop and r&b,,97,0.02,Circumstantially Engaged
+tyga,3118,Tyga,2337,hiphop and r&b,,82,0.02,Circumstantially Engaged
+tyrese,3219,Tyrese,43,hiphop and r&b,,105,0.02,Circumstantially Engaged
+usher,3239,Usher,1917,hiphop and r&b,,106,0.02,Circumstantially Engaged
+yg,3129,YG,1155,hiphop and r&b,,82,0.02,Circumstantially Engaged
+luisfonsi,3210,Luis Fonsi,3736,latin,,85,0.03,Circumstantially Engaged
+youngdolph,3044,Young Dolph,6,hiphop and r&b,,92,0.02,Circumstantially Engaged
+omardruiz,3228,Omar Ruiz,528,latin,,93,0.03,Circumstantially Engaged
+younggreatness7,3092,Young Greatness,214,hiphop and r&b,,85,0.02,Circumstantially Engaged
+simpsonsturgill,3,Sturgill Simpson,47,rock,,0,0,Unengaged
+yandeloficial,3202,Yandel,4409,latin,,83,0.03,Circumstantially Engaged
+youngmamusic,3103,Young M.A,836,hiphop and r&b,,92,0.02,Circumstantially Engaged
+fatjoe,3076,Fat Joe,734,hiphop and r&b,,140,0.05,Circumstantially Engaged
+tip,3203,T.I.,37,hiphop and r&b,,182,0.06,Circumstantially Engaged
+jidenna,2971,Jidenna,1437,hiphop and r&b,,197,0.07,Circumstantially Engaged
+korynhawthorne,945,Koryn Hawthorne,65,hiphop and r&b,,64,0.07,Circumstantially Engaged
+zendaya,3150,Zendaya,251,hiphop and r&b,pop,225,0.07,Circumstantially Engaged
+tronchoqo,2299,Pepe Quintana,228,latin,,5,0.04,Circumstantially Engaged
+el_bebeto,3129,El Bebeto,279,latin,,176,0.06,Circumstantially Engaged
+steveperrymusic,200,Steve Perry,26,rock,,0,0,Unengaged
+trentharmon,3198,Trent Harmon,574,country,,201,0.06,Circumstantially Engaged
+willienelson,134,Willie Nelson,3,country,,5,0.04,Circumstantially Engaged
+pink,3173,P!nk,1319,pop,,247,0.08,Circumstantially Engaged
+nickfradiani,3200,Nick Fradiani,374,pop,,280,0.09,Circumstantially Engaged
+scrowder,3198,Crowder,4780,christian,,229,0.07,Circumstantially Engaged
+redmarlow,2500,Red Marlow,21,country,,217,0.09,Circumstantially Engaged
+johnlegend,3188,John Legend,1141,pop,hiphop and r&b,529,0.17,Actively Engaged
+chancetherapper,3161,Chance The Rapper,694,hiphop and r&b,,362,0.11,Actively Engaged
+tiesto,3175,Tiesto,436,latin,,145,0.17,Actively Engaged
+sufjanstevens,20,Sufjan Stevens,139,rock,,0,0,Unengaged
